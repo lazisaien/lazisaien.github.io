@@ -1,0 +1,42 @@
+﻿/*
+Theme Name: Core
+Description: Premium Template for Photography Portfolio
+Version: 3.4.2
+Author: Peerapong Pulpipatnan
+Author URI: http://newone.org
+*/
+
+@import "css/screen.css";
+
+
+body, #page_content_wrapper .sidebar .content .posts.blog { font-size:12px; }
+
+.nav li a { font-size:14px; }
+
+.page_caption h1 { font-size:120px; }
+
+h1 { font-size:40px; }
+
+h2 { font-size:32px; }
+
+h3 { font-size:26px; }
+
+h4 { font-size:24px; }
+
+h5 { font-size:22px; }
+
+h6 { font-size:18px; }
+
+h1, h2, h3, h4, h5, h6, .nav, .subnav, #footer { font-family: 'Play'; }		
+@media only screen and (min-width: 768px) and (max-width: 960px) {
+	.page_caption h1 { font-size: 90px; }
+	#bg { margin-top: 0; }
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.page_caption h1 { font-size: 65px; }
+	#bg { margin-top: 0; }
+}
+@media only screen and (max-width: 767px) {
+	.page_caption h1 { font-size: 50px; }
+	#bg { margin-top: 0; }
+}
