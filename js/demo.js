@@ -29,14 +29,14 @@ function changeDemo(type, is_mobile) {
                
                
               
-                {
-                    type:     'blog_post',
-                    date:     '1988-11-15',
-                    title:    'Ajay Kumar',
-                    width:    400,
-                    content:  'SQA Engineer & Designer',
-                    readmore: 'http://www.ajay.tolico-qatar.com/'
-                },
+             //   {
+               //     type:     'blog_post',
+                 //   date:     '1988-11-15',
+                  //  title:    'Ajay Kumar',
+                 //   width:    400,
+                  //  content:  'SQA Engineer & Designer',
+                //    readmore: 'http://www.lazisaien.github.io/'
+              //  },
 
                  {
                      type: 'blog_post',
@@ -133,6 +133,18 @@ function changeDemo(type, is_mobile) {
                                   content: 'Start working as SQA Engineer',
                                   image: 'images/tp_logo.png',
                               },
+							  
+							   {
+                                type: 'blog_post',
+                                date: '2014-08-12',
+                                title: 'MASTERS ',
+                                width: 400,
+                                height: 200, 
+                                content: 'ENROLLED INTO MASTERS PROGRAM - MASTERS IN PROJECT MANAGMENT FROM SZABIST ',
+                               // image: 'images/grad.jpg',
+                              },
+							   
+
 
                  //{
                  //    type: 'slider',
