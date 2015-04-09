@@ -259,37 +259,16 @@
 	overflow: hidden;
 	position: relative;
 }
-
-.dcsns-toolbar1 {
-	padding: 0;
-	width: 100%;
-	overflow: hidden;
-	position: relative;
-}
 /* Filter */
 #wall {
-	padding-top: 15px;
-}
-
-#wall1 {
 	padding-top: 15px;
 }
 #wall .dcsns-toolbar {
 	margin-bottom: 25px;
 }
-
-#wall1 .dcsns-toolbar1 {
-	margin-bottom: 25px;
-}
 .dcsns-toolbar .filter {
 	padding: 0;
 	margin: 0 0 15px 0;
-}
-
-.dcsns-toolbar1 .filter1 {
-	padding: 0;
-	margin: 0 0 15px 0;
-	float: right;
 }
 .dcsns-toolbar .filter li {
 	display: inline;
@@ -297,22 +276,7 @@
 	padding: 0;
 	margin: 0;
 }
-
-.dcsns-toolbar1 .filter1 li {
-	display: inline;
-	background: none;
-	padding: 0;
-	margin: 0;
-}
 .dcsns-toolbar .filter .link-all {
-	color: #fff;
-	height: 21px;
-	padding: 7px 7px 4px 7px;
-	text-shadow: 0 0 1px #555;
-	font-weight: bold;
-}
-
-.dcsns-toolbar1 .filter1 .link-all {
 	color: #fff;
 	height: 21px;
 	padding: 7px 7px 4px 7px;
@@ -327,21 +291,7 @@
 	background: #777;
 	height: 28px;
 }
-
-.dcsns-toolbar1 .filter1 li a {
-	padding: 4px 3px 0 3px;
-	margin: 0 738px 1px 0;
-	display: block;
-	float: left;
-	background: #777;
-	height: 28px;
-}
 .dcsns-toolbar .filter li img {
-	margin: 0;
-	height: 24px;
-}
-
-.dcsns-toolbar1 .filter1 li img {
 	margin: 0;
 	height: 24px;
 }
