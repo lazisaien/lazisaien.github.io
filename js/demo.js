@@ -62,7 +62,7 @@ function changeDemo(type, is_mobile) {
                           title: 'MICROSOFT TRAINING',
                           width: 400,
                           content: 'Selected in MIC Catalyst by Microsoft Innovation Centre in top 12 teams from all over Pakistan,also attend 5 days training at MIC."',
-                          image: 'images/mic.jpg',
+                          image: 'images/mic.JPG',
                       
                       },
 
@@ -101,7 +101,7 @@ function changeDemo(type, is_mobile) {
                                title: 'ITEC 2012 - MANAGER | GAMING',
                                width: 400,
                                content: 'Arranging gaming lab.',
-                               image: 'images/itec12.jpg',
+                               image: 'images/itec12.JPG',
 
                            },
 
