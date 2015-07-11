@@ -141,8 +141,7 @@
 					    comments: 3,
 						likes: 8,
 						icon: 'instagram.png'
-					},
-					
+					}
 				},
 				remove: '',
 				twitterId: '',

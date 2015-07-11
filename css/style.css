@@ -221,15 +221,16 @@ ul.social-links li {
 	-ms-transition: all 0.3s;
 }
 
-/*
+
 .logo {
 	width:59px;
 	height:23px;
 	padding: 58px 40px;
 	display:block;
-
-	background-repeat: no-repeat;
-	background-position: center center;
+	background-image: url(../images/logo.png);
+    background-repeat: no-repeat;
+    background-position: center center
+	
 }
 
 /* MAIN MENU
