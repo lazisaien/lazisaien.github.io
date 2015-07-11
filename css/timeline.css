@@ -1,8 +1,10 @@
+
 div.timeline {
-    font-family: 'lucida grande',tahoma,verdana,arial,sans-serif;
+ 
+	font-family: 'OswaldLight',Arial,Helvetica,sans-serif;
     position: relative;
     overflow: hidden;
-    margin: 0px auto;
+    margin: 140px auto;
 }
 
 /* Column */
@@ -214,9 +216,11 @@ div.timeline_element div.title span.label {
     white-space: nowrap;
     display: block;
     text-overflow: ellipsis;
+	font-size:11px
 }
 div.timeline_element div.title span.date {
     float: right;
+	font-size:11px
 }
 div.timeline_element div.img_container {
     position: relative;
@@ -330,7 +334,8 @@ div.timeline_element.iframe.notitle div.content iframe {
 
 /* Blog Post Element */
 div.timeline_element.blog_post div.content {
-    font-size: 13px;
+    font-size: 15px;
+	font-family: 'OswaldLight',Arial,Helvetica,sans-serif;
     padding: 0px 10px 10px 10px;
 }
 div.timeline_element.blog_post div.img_container {

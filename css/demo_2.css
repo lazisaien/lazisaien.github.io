@@ -17,7 +17,7 @@
     position: fixed;
     left: 20px;
     top: 10px;
-    font-family: 'lucida grande',tahoma,verdana,arial,sans-serif;
+   font-family: 'OswaldLight',Arial,Helvetica,sans-serif;
     font-size: 11px;
     color: #BBBBBB;
 }
@@ -35,7 +35,7 @@
     text-decoration: underline;
 }
 #loadmore {
-    font-family: 'lucida grande',tahoma,verdana,arial,sans-serif;
+    font-family: 'OswaldLight',Arial,Helvetica,sans-serif;
     font-size: 12px;
     cursor: pointer;
     margin: 10px auto 20px auto;

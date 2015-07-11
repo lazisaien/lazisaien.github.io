@@ -227,10 +227,9 @@ ul.social-links li {
 	height:23px;
 	padding: 58px 40px;
 	display:block;
-	background-image: url(../images/logo.png);
-    background-repeat: no-repeat;
-    background-position: center center
-	
+    background-image: url(../images/logo.png);
+	background-repeat: no-repeat;
+	background-position: center center;
 }
 
 /* MAIN MENU

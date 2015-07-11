@@ -76,7 +76,7 @@ body {
     border: 1px solid #CCCCCC;
     cursor: default;
     white-space: nowrap;
-    font-family: Arial;
+    font-family: 'OswaldLight',Arial,Helvetica,sans-serif;
     font-size: 0.7em;
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
     border-radius: 3px;
@@ -122,7 +122,7 @@ body {
     outline: none;
     padding: 8px 10px;
     border: 1px solid #CCCCCC;
-    font-family: Arial;
+    font-family: 'OswaldLight',Arial,Helvetica,sans-serif;
     border-radius: 3px;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -181,7 +181,7 @@ body {
     left: 0px;
     right: 0px;
     height: 50px;
-    font-family: Arial;
+    font-family: 'OswaldLight',Arial,Helvetica,sans-serif;
     box-shadow: 0px -2px 8px rgba(0, 0, 0, 0.1);
     background-color: #FFFFFF;
     -webkit-animation: footer 0.8s;
