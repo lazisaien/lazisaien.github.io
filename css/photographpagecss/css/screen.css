@@ -66,7 +66,7 @@ body
 {
 	background: #fff;
 	font-size: 12px;
-	font-family: "helvetica neue",Helvetica, Arial,Verdana,sans-serif;
+	font-family: 'OswaldLight',Arial,Helvetica,sans-serif;
 	padding: 0;
 	margin: 0;
 	color: #666;
@@ -344,7 +344,7 @@ blockquote h3
 	display: block;
 	margin:26px 0 0 200px;
 	float: left;
-	font-family: 'Gnuolane';
+	font-family: 'OswaldLight',Arial,Helvetica,sans-serif;
 }
 
 .subnav
@@ -545,7 +545,7 @@ body.home #content_wrapper
 	color: #fff;
 	font-weight: bold;
 	font-size: 13px;
-	font-family: Arial,"helvetica neue",Helvetica,Verdana,sans-serif;
+	font-family: 'OswaldLight',Arial,Helvetica,sans-serif;
 }
 
 #content_wrapper .card_content
@@ -881,7 +881,7 @@ input[type=text], input[type=password]
 {
 	padding: 10px;
 	font-size: 12px;
-	font-family: Helvetica, Arial,Verdana,sans-serif;
+	font-family: 'OswaldLight',Arial,Helvetica,sans-serif;
 	margin: 0;
 	background: #fff;
 	border: 0;
@@ -913,7 +913,7 @@ textarea
 	height: 200px;
 	overflow: auto;
 	background: #fff;
-	font-family: Helvetica, Arial,Verdana,sans-serif;
+	font-family: 'OswaldLight',Arial,Helvetica,sans-serif;
 	border: 0;
 	border-top: 1px solid #e0e0e0;
 	border-left: 1px solid #e0e0e0;
