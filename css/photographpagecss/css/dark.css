@@ -1,4 +1,10 @@
-﻿body, #footer, #top_bar
+﻿
+@import url('../css/font-awesome.min.css');
+@import url('../css/font-oswald.css');
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,700,300);
+
+
+body, #footer, #top_bar
 {
 	
 	color: #999;

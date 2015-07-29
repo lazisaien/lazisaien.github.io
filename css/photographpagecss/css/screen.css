@@ -1,6 +1,7 @@
-﻿/* 
-	CSS Reset 
-*/
+﻿
+@import url('../css/font-awesome.min.css');
+@import url('../css/font-oswald.css');
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,700,300);
 
 html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, code, del, dfn, em, img, q, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td 
 {
