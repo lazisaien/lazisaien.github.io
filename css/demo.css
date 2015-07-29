@@ -2,8 +2,7 @@ body {
     margin: 0px;
     padding-bottom: 50px;
     font-size: 100%;
-    background: #EEEEEE;
-    background-image: url('../images/bg_.png');
+	background-color: #f7f7f7
     background-attachment: fixed;
 }
 
