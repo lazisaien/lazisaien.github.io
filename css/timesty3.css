@@ -138,7 +138,7 @@ ul.social-links li {
 	background-color:#2f343a;
 	font-family: 'OswaldLight',Arial,Helvetica,sans-serif;
 	color:#fff;
-	padding:13px 15px;
+	padding:10px 15px;
 	font-size:12px
 }
 .search-container{
@@ -294,7 +294,7 @@ nav#main-nav select {
 	list-style:	none;
 }
 .sf-menu {
-	line-height: 1.0;
+	
 }
 .sf-menu ul {
 	position: absolute;
