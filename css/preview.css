@@ -1,0 +1,248 @@
+body {
+			
+	margin: 0;
+	overflow-x: hidden;
+	
+}
+
+img {
+
+	max-width: 100%;
+	height: auto;
+	
+}
+
+#cj-numbers {
+	
+	display: inline-block;
+	position: fixed;
+	left: 50%;
+	bottom: 20px;
+	margin-left: -102px;
+	padding: 6px;
+	z-index: 999999;
+	
+	background: url(img/otis_redding.png);
+	border-top: 1px solid rgba(255, 255, 255, 0.5);
+	border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+	
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	
+}
+
+#cj-numbers a,
+#cj-numbers span {
+
+	display: block;
+	float: left;
+	width: 14px;
+	height: 12px;
+	
+	padding: 2px 2px 4px 2px;
+	margin: 0 3px 0 3px;
+	
+	font: 11px Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	text-decoration: none;
+	text-align: center;
+	color: #666;
+	background-color: #CCC;
+	background-color: rgba(255, 255, 255, 0.5);
+	
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+	
+}
+
+#cj-numbers a:visited {
+
+	color: #666;
+	
+}
+
+#cj-numbers span,
+#cj-numbers a:hover {
+
+	background-color: #F5F5F5;
+	
+}
+
+a.cj-navigation {
+
+	position: fixed;
+	top: 50%;
+	margin-top: -28px;
+	z-index: 999999;
+	
+}
+
+a.cj-mobile {
+
+	top: 60px !important;
+	
+}
+
+a.cj-prev {
+
+	left: 30px;
+	
+}
+
+a.cj-next {
+
+	right: 30px;
+	
+}
+
+a.cj-navigation div {
+	
+	width: 50px;
+	height: 50px;
+	position: relative;
+	
+	border: 3px solid #F5F5F5;
+	background: url(img/otis_redding.png);
+	
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+	
+}
+
+#cj-numbers,
+#cj-numbers a,
+#cj-numbers span,
+a.cj-navigation div {
+
+	-webkit-box-shadow: 0 0 2px rgba(0, 0, 0, 0.2);
+	-moz-box-shadow: 0 0 2px rgba(0, 0, 0, 0.2);
+	box-shadow: 0 0 2px rgba(0, 0, 0, 0.2);
+	
+}
+
+a.cj-navigation span {
+
+	display: block;
+	position: absolute;
+	top: 50%;
+	
+}
+
+a.cj-navigation span:nth-child(1) {
+
+	width: 13px;
+	height: 10px;
+	background-color: #F5F5F5;
+	margin-top: -5px;
+	
+}
+
+a.cj-navigation span:nth-child(2) {
+			
+	width: 0px;
+	height: 0px;
+	border-style: solid;
+	margin-top: -10px;
+	
+}
+
+a.cj-prev span:nth-child(1) {
+
+	right: 15px;
+	
+}
+
+a.cj-prev span:nth-child(2) {
+
+	right: 28px;
+	
+}
+
+a.cj-next span:nth-child(1) {
+
+	left: 15px;
+	
+}
+
+a.cj-next span:nth-child(2) {
+
+	left: 28px;
+	
+}
+
+a.cj-prev span:nth-child(2) {
+	
+	border-width: 10px 10px 10px 0;
+	border-color: transparent #F5F5F5 transparent;
+	
+}
+
+a.cj-next span:nth-child(2) {
+
+	border-width: 10px 0 10px 10px;
+	border-color: transparent transparent transparent #F5F5F5;
+	
+}
+
+a.cj-navigation:hover div {
+
+	border-color: #D5D5D5;
+	
+}
+
+a.cj-navigation:hover span:nth-child(1) {
+
+	background-color: #D5D5D5;
+	
+}
+
+a.cj-prev:hover span:nth-child(2) {
+
+	border-color: transparent #D5D5D5 transparent;
+	
+}
+
+a.cj-next:hover span:nth-child(2) {
+
+	border-color: transparent transparent transparent #D5D5D5;
+	
+}
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (min-device-pixel-ratio: 2),
+only screen and (min-resolution: 192dpi),
+only screen and (min-resolution: 2dppx) { 
+
+	a.cj-navigation div {
+	
+		background: url(img/otis_redding_@2X.png);
+		
+	}
+
+}
+
+@media screen and (max-width: 640px) {
+	
+	#cj-numbers {
+	
+		display: none;
+		
+	}
+	
+}
+
+@media screen and (max-width: 360px) {
+
+	a.cj-navigation {
+	
+		top: 60px;
+		
+	}
+	
+}
