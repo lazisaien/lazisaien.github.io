@@ -143,6 +143,14 @@ function changeDemo(type, is_mobile) {
                                 content: 'ENROLLED INTO MASTERS PROGRAM - MASTERS IN PROJECT MANAGMENT FROM SZABIST ',
                                // image: 'images/grad.jpg',
                               },
+							  {
+                                  type: 'blog_post',
+                                  date: '2016-01-01',
+                                  title: 'Senior SQA Engineer | Ten Pearls ',
+                                  width: 400,
+                                  content: 'Promoted to Senior SQA Engineer',
+                                  image: 'images/tp_logo.png',
+                              },
 							   
 
 
