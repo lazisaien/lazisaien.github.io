@@ -227,7 +227,7 @@ ul {
 	margin-bottom: 1.5em;
 }
 ul li {
-	background: url(images/bullet.png) no-repeat  0px 1px;
+	background: no-repeat  0px 1px;
 	margin-bottom:5px;
 	font-size:13px;
 
