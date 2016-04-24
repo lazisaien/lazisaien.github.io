@@ -151,18 +151,26 @@ function changeDemo(type, is_mobile) {
                                   content: 'Promoted to Senior SQA Engineer',
                                   image: 'images/tp_logo.png',
                               },
-							   
+							    {
+                                type: 'blog_post',
+								date: '2016-04-20',
+                                title: 'POST GRADUATION ',
+                                width: 400,
+                                height: 200, 
+                                content: 'COMPLETED MASTERS PROGRAM - MASTERS IN PROJECT MANAGMENT',
+                               // image: 'images/grad.jpg',
+                              },
 
-
-                 //{
-                 //    type: 'slider',
-                 //    date: '2011-08-03',
-                 //    title: 'Blog Postiii',
-                 //    width: 400,
-                 //    height: 150,
-                 //    images: ['images/group.jpg', 'images/old.jpg', 'images/win.jpg'],
-                 //    speed: 5000
-                 //},
+/* 
+               {
+                    type: 'slider',
+                    date: '2017-08-03',
+                   title: 'Blog Postiii',
+                   width: 400,
+                   height: 150,
+                    images: ['images/about.jpg', 'images/old.jpg', 'images/win.jpg'],
+                    speed: 5000
+                 }, */
 
              
             ];
