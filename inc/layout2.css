@@ -145,12 +145,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 h1 {
 	font-size: 22px;
-	background: url(images/h1.png) repeat;
+	background-color: #95a5a6;
 	margin: 0;
-	position: absolute;
 	bottom: 0;
 	left: 0;
-	width: 870px;
+	width: 900px;
 }
 #banner {
 	height: 78px;
@@ -437,7 +436,7 @@ pre {
 #logo {
 	
 }
-h1 {color: #95a5a6; text-align: center; padding: 15px; font-size: 26px; text-shadow: 1px 1px 1px #333;}
+h1 {color: #95a5a6; padding: 22px; font-size: 22px;color: #fff;font-family: 'OswaldLight', Arial, Helvetica, sans-serif;line-height: 22px;} 
 .col-side {width: 300px; float: right;}
 .col-main{width: 570px; float: left;}
 .col-main p {margin-bottom: 0;}
@@ -461,7 +460,7 @@ h1 {color: #95a5a6; text-align: center; padding: 15px; font-size: 26px; text-sha
 	margin: 0 auto;
 	overflow: hidden;
 	position: relative;
-	padding-top: 10px;
+	padding-top: 0px;
 	
 }
 .opacity {
