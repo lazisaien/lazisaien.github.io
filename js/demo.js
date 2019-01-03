@@ -128,7 +128,7 @@ function changeDemo(type, is_mobile) {
                               {
                                   type: 'blog_post',
                                   date: '2013-06-24',
-                                  title: 'SQA Engineer | Ten Pearls ',
+                                  title: 'SQA Engineer | 10Pearls ',
                                   width: 400,
                                   content: 'Start working as SQA Engineer',
                                   image: 'images/tp_logo.png',
@@ -146,9 +146,9 @@ function changeDemo(type, is_mobile) {
 							  {
                                   type: 'blog_post',
                                   date: '2016-01-01',
-                                  title: 'Senior SQA Engineer | Ten Pearls ',
+                                  title: 'Senior Test Engineer | 10Pearls ',
                                   width: 400,
-                                  content: 'Promoted to Senior SQA Engineer',
+                                  content: 'Promoted to Senior Test Engineer',
                                   image: 'images/tp_logo.png',
                               },
 							    {
@@ -160,8 +160,17 @@ function changeDemo(type, is_mobile) {
                                 content: 'COMPLETED MASTERS PROGRAM - MASTERS IN PROJECT MANAGMENT',
                                // image: 'images/grad.jpg',
                               },
+							  {
+                                type: 'blog_post',
+								date: '2018-07-01',
+                                title: 'Lead Test Engineer | 10Pearls ',
+                                width: 400,
+                                height: 200, 
+                                content: 'Promoted to Lead Test Engineer',
+                               // image: 'images/grad.jpg',
+                              }
 
-/* 
+
                {
                     type: 'slider',
                     date: '2017-08-03',
@@ -170,7 +179,7 @@ function changeDemo(type, is_mobile) {
                    height: 150,
                     images: ['images/about.jpg', 'images/old.jpg', 'images/win.jpg'],
                     speed: 5000
-                 }, */
+                 }, 
 
              
             ];
