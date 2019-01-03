@@ -141,7 +141,7 @@ function changeDemo(type, is_mobile) {
                                 width: 400,
                                 height: 200, 
                                 content: 'ENROLLED INTO MASTERS PROGRAM - MASTERS IN PROJECT MANAGMENT FROM SZABIST ',
-                               // image: 'images/grad.jpg',
+                               
                               },
 							  {
                                   type: 'blog_post',
@@ -167,21 +167,12 @@ function changeDemo(type, is_mobile) {
                                 width: 400,
                                 height: 200, 
                                 content: 'Promoted to Lead Test Engineer',
-                               // image: 'images/grad.jpg',
+                               image: 'images/tp_logo.png',
                               }
 
 
-               {
-                    type: 'slider',
-                    date: '2017-08-03',
-                   title: 'Blog Postiii',
-                   width: 400,
-                   height: 150,
-                    images: ['images/about.jpg', 'images/old.jpg', 'images/win.jpg'],
-                    speed: 5000
-                 }, 
+           
 
-             
             ];
             options       = {
                 animation:   true,
