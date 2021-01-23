@@ -179,9 +179,6 @@ function changeDemo(type, is_mobile) {
                                image: 'images/tp_logo.png',
                               }
 
-
-           
-
             ];
             options       = {
                 animation:   true,
