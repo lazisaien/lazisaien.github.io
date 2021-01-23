@@ -163,10 +163,19 @@ function changeDemo(type, is_mobile) {
 							  {
                                 type: 'blog_post',
 								date: '2018-07-01',
-                                title: 'Lead Test Engineer | 10Pearls ',
+                                title: 'Staff Test Engineer | 10Pearls ',
                                 width: 400,
                                 height: 200, 
-                                content: 'Promoted to Lead Test Engineer',
+                                content: 'Promoted to Staff Test(Lead) Engineer',
+                               image: 'images/tp_logo.png',
+                              },
+							  {
+                                type: 'blog_post',
+								date: '2020-07-01',
+                                title: 'Project Lead | 10Pearls ',
+                                width: 400,
+                                height: 200, 
+                                content: 'Promoted to Project Lead',
                                image: 'images/tp_logo.png',
                               }
 
