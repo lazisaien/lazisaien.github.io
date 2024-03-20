@@ -177,6 +177,15 @@ function changeDemo(type, is_mobile) {
                                 height: 200, 
                                 content: 'Promoted to Project Lead',
                                image: 'images/tp_logo.png',
+                              },
+							  {
+                                type: 'blog_post',
+								date: '2024-01-01',
+                                title: 'Associate Project Manager | 10Pearls ',
+                                width: 400,
+                                height: 200, 
+                                content: 'Promoted to Associate Project Manager',
+                               image: 'images/tp_logo.png',
                               }
 
             ];
